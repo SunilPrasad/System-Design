@@ -1,5 +1,5 @@
-# System-Design
-System design implementation
+# Load balancing using YARP
+
 In the fast-paced world of web development, ensuring high availability and optimal performance for your applications is non-negotiable. One key technology that empowers developers to achieve these goals is load balancing. And when it comes to load balancing, YARP - Yet Another Reverse Proxy - stands out as a versatile and robust solution.
 
 Understanding Load Balancing
